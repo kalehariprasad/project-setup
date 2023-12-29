@@ -1,0 +1,12 @@
+# local package
+-e .
+
+# backwards compatibility
+pathlib2
+pandas 
+numpy
+matplotlib
+seaborn
+scikit-learn
+dvc
+streamlit
