@@ -89,4 +89,5 @@ target/
 .mypy_cache/
 # ignoreing data folder 
 /data
-
+# ingoring documnets folder
+/documnets
