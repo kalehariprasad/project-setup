@@ -1,4 +1,6 @@
 [core]
     remote = remote
 ['remote "remote"']
-    url = ../Storage
+    url = C:\Users\Christopher\Desktop\Hari_prasad\campusX\project_setup\Storage
+['remote "gdirve"']
+    url = https://drive.google.com/drive/folders/1YJ_2yvhelylPR4A6u2sapt83PxheQmSu?usp=sharing
