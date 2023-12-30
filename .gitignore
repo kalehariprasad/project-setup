@@ -91,3 +91,4 @@ target/
 data/
 # ingoring documnets folder
 documnets/
+/data
